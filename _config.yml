@@ -21,7 +21,7 @@ twitter_username: username
 github_username: username
 
 author:
-  name   : "First Lastname"
+  name   : "Sophie"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
